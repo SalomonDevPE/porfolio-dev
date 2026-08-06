@@ -1,48 +1,107 @@
-# Astro Starter Kit: Basics
+# 🚀 Portafolio Web | Salomón Dev
 
-```sh
-npm create astro@latest -- --template basics
-```
+Bienvenido a mi portafolio personal. Este proyecto fue desarrollado con **Astro** y tiene como objetivo presentar mi perfil profesional, experiencia, habilidades y algunos de los proyectos en los que he trabajado como desarrollador de software.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## 📖 Acerca del proyecto
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Este sitio web fue creado para mostrar de forma clara y moderna:
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+* 👨‍💻 Mi perfil profesional.
+* 💼 Experiencia laboral.
+* 🚀 Proyectos destacados.
+* 🛠️ Tecnologías que domino.
+* 📄 Información de contacto.
 
-## 🚀 Project Structure
+## 🛠️ Tecnologías utilizadas
 
-Inside of your Astro project, you'll see the following folders and files:
+Este proyecto fue desarrollado utilizando las siguientes tecnologías:
+
+* Astro
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Git y GitHub
+
+## 📂 Estructura del proyecto
 
 ```text
 /
 ├── public/
+│   ├── images/
 │   └── favicon.svg
 ├── src/
+│   ├── assets/
+│   ├── components/
 │   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   ├── pages/
+│   ├── styles/
+│   └── content/
+├── package.json
+├── astro.config.mjs
+└── tsconfig.json
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 🚀 Instalación
 
-## 🧞 Commands
+Clona el repositorio:
 
-All commands are run from the root of the project, from a terminal:
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Ingresa al proyecto:
 
-## 👀 Want to learn more?
+```bash
+cd TU_REPOSITORIO
+```
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Instala las dependencias:
+
+```bash
+npm install
+```
+
+## ▶️ Ejecutar en modo desarrollo
+
+```bash
+npm run dev
+```
+
+La aplicación estará disponible en:
+
+```text
+http://localhost:4321
+```
+
+## 📦 Generar la versión de producción
+
+```bash
+npm run build
+```
+
+## 👀 Previsualizar la versión compilada
+
+```bash
+npm run preview
+```
+
+## 📌 Características
+
+* Diseño moderno y adaptable (Responsive Design).
+* Navegación rápida gracias a Astro.
+* Optimización para rendimiento y SEO.
+* Organización modular de componentes.
+* Código limpio y fácil de mantener.
+
+## 📬 Contacto
+
+Si deseas comunicarte conmigo o conocer más sobre mi trabajo:
+
+* 💻 GitHub: https://github.com/TU_USUARIO
+* 💼 LinkedIn: https://www.linkedin.com/in/TU_USUARIO
+* 📧 Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+
+---
+
+⭐ Gracias por visitar este repositorio. Si el proyecto te resulta interesante, puedes darle una estrella para apoyar mi trabajo.
