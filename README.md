@@ -42,50 +42,6 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 └── tsconfig.json
 ```
 
-## 🚀 Instalación
-
-Clona el repositorio:
-
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-```
-
-Ingresa al proyecto:
-
-```bash
-cd TU_REPOSITORIO
-```
-
-Instala las dependencias:
-
-```bash
-npm install
-```
-
-## ▶️ Ejecutar en modo desarrollo
-
-```bash
-npm run dev
-```
-
-La aplicación estará disponible en:
-
-```text
-http://localhost:4321
-```
-
-## 📦 Generar la versión de producción
-
-```bash
-npm run build
-```
-
-## 👀 Previsualizar la versión compilada
-
-```bash
-npm run preview
-```
-
 ## 📌 Características
 
 * Diseño moderno y adaptable (Responsive Design).
@@ -98,9 +54,8 @@ npm run preview
 
 Si deseas comunicarte conmigo o conocer más sobre mi trabajo:
 
-* 💻 GitHub: https://github.com/TU_USUARIO
-* 💼 LinkedIn: https://www.linkedin.com/in/TU_USUARIO
-* 📧 Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+* 💻 GitHub: https://github.com/SalomonDevPE
+* 📧 Correo: [salomonpauccara@gmail.com](mailto:salomonpauccara.com)
 
 ---
 
